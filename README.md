@@ -9,4 +9,7 @@ for international clients. That code is under NDA, so it isn't public here:
 - **Bushfire AI** — wildfire detection on 50–100 cameras: Team Lead, React + GraphQL, AWS
 - **ADS Newspapers** — AI ad digitization in PDF newspapers: Python, YOLO + Gemini, GCP
 
-Portfolio and CV: https://kobtsev-m.github.io/Portfolio · kobtsev.info@gmail.com · Telegram: https://t.me/kobtsev_m
+### Contacts
+- Portfolio and CV: https://kobtsev-m.github.io/Portfolio
+- Email: kobtsev.info@gmail.com
+- Telegram: https://t.me/kobtsev_m
